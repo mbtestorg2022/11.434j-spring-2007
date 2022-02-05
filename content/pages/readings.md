@@ -8,20 +8,168 @@ There are no formal required materials. Students may find the following text use
 
 Geltner, David M., Norman G. Miller, Jim Clayton, and Piet Eichholtz. _Commercial Real Estate Analysis and Investments_. Cincinnati, OH: South-Western Educational Publishing, 2007. ISBN: 9780324305487.
 
-| SES # | TOPICS | REFERENCES |
-| --- | --- | --- |
-| 1 | Transaction index methodology | Chapter 25 |
-| 2 | Guest lecture on transaction-based indices | &nbsp; |
-| 3 | Guest lecture on CDO's (collateralized debt obligations) | &nbsp; |
-| 4 | Guest lecture on CMBS (commercial mortgage-backed securities) default modeling | &nbsp; |
-| 5 | Guest lecture on commercial real estate derivatives | Chapter 26 (section 26.3 only) |
-| 6 | No class (optional trip to New York) | &nbsp; |
-| 7 | No class (optional trip to New York) | &nbsp; |
-| 8 | Valuing flexibility in real estate development projects using spreadsheet-based simulation | Chapter 29, especially 29.4 and CD Appendix 29 |
-| 9 | Simulation nuts and bolts | &nbsp; |
-| 10 | Derivatives (pricing and technical issues) | Chapter 26.3 |
-| 11 | International real estate investment | Chapters 24 and 26 (sections 26.1-2 only) |
-| 12-13 | Student presentations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+REFERENCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Transaction index methodology
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture on transaction-based indices
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture on CDO's (collateralized debt obligations)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture on CMBS (commercial mortgage-backed securities) default modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture on commercial real estate derivatives
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 26 (section 26.3 only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+No class (optional trip to New York)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+No class (optional trip to New York)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Valuing flexibility in real estate development projects using spreadsheet-based simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 29, especially 29.4 and CD Appendix 29
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Simulation nuts and bolts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Derivatives (pricing and technical issues)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 26.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+International real estate investment
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 24 and 26 (sections 26.1-2 only)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Readings
 -------------------
